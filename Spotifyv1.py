@@ -1,8 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import seaborn as sns
-from streamlit_folium import folium_static
+#from streamlit_folium import folium_static
 import warnings
 warnings.filterwarnings('ignore')
 import seaborn as sns
