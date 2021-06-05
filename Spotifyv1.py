@@ -1,8 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
-import folium
 import seaborn as sns
 from streamlit_folium import folium_static
 import warnings
