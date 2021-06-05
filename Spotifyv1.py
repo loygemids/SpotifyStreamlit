@@ -4,7 +4,7 @@ import numpy as np
 #from streamlit_folium import folium_static
 import warnings
 warnings.filterwarnings('ignore')
-import seaborn as sns
+#import seaborn as sns
 from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.neighbors import KNeighborsClassifier 
 from sklearn.metrics import accuracy_score,roc_curve, auc, confusion_matrix, classification_report
