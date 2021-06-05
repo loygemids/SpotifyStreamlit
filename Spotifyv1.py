@@ -5,15 +5,15 @@ import numpy as np
 import warnings
 warnings.filterwarnings('ignore')
 #import seaborn as sns
-from sklearn.model_selection import train_test_split, cross_val_score
-from sklearn.neighbors import KNeighborsClassifier 
-from sklearn.metrics import accuracy_score,roc_curve, auc, confusion_matrix, classification_report
-from sklearn.metrics.pairwise import euclidean_distances, manhattan_distances, cosine_similarity
-from sklearn.metrics import mean_squared_error, mean_absolute_error
-from sklearn.linear_model import LinearRegression
+#from sklearn.model_selection import train_test_split, cross_val_score
+#from sklearn.neighbors import KNeighborsClassifier 
+#from sklearn.metrics import accuracy_score,roc_curve, auc, confusion_matrix, classification_report
+#from sklearn.metrics.pairwise import euclidean_distances, manhattan_distances, cosine_similarity
+#from sklearn.metrics import mean_squared_error, mean_absolute_error
+#from sklearn.linear_model import LinearRegression
 
-import keyring
-import time
+#import keyring
+#import time
 
 #set
 st.set_page_config(
